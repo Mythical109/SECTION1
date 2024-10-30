@@ -227,7 +227,7 @@ function finalAnswer(){
 }//End of finalAnswer
 
 
-var congrats = 'Congradulations, Breakers. You have successfully made it to the end of the exercise. You have done well on both learning the ropes and collaborating with your team. Please let your instructor know that you are finished by returning your section\’s book.'
+var congrats = 'Congratulations, Breakers. You have successfully made it to the end of the exercise. You have done well on both learning the ropes and collaborating with your team. Please let your instructor know that you are finished by returning your section\’s book.'
 
 var thanks = 'Thank you again. We\’ll be in touch soon.';
 
