@@ -2,25 +2,25 @@
 
 //ABOUT
 var a = new Image();
-a.src = 'IMG/breakersAbout.png';
+a.src = 'breakersAbout.png';
 
 //BINARY
 var b = new Image();
-b.src = 'IMG/Binary.png';
+b.src = 'Binary.png';
 
 //CAESER
 var c = new Image();
-c.src = 'IMG/Caesar.png';
+c.src = 'Caesar.png';
 
 //CT
 var d = new Image();
-d.src = 'IMG/ct.png';
+d.src = 'ct.png';
 
 var k = new Image();
-k.src = 'IMG/vNb.png';
+k.src = 'vNb.png';
 
 var LOGO = new Image();
-LOGO.src = 'IMG/HUB.png';
+LOGO.src = 'HUB.png';
 
 var i = 0;
 var e = 0;
