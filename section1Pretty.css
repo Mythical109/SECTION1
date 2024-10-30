@@ -1,6 +1,6 @@
 .overlay{
     pointer-events: none;/*Overlay will not be interactable with user*/
-    background-image: url('IMG/static.gif');
+    background-image: url('static.gif');
     background-size: cover;
     display: block;
     position: fixed;
@@ -12,7 +12,7 @@
 
 
 body{
-    background-image: url('IMG/bkg.png');
+    background-image: url('bkg.png');
     background-size: cover;
     pointer-events: auto;
 }
