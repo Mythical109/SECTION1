@@ -20,19 +20,19 @@ body{
 
 @font-face{
     font-family: 'dataControl';
-    src: url('data-control/data-latin.ttf');
+    src: url('data-latin.ttf');
 }
 
 
 @font-face{
     font-family: 'linearBeam';
-    src: url('linear_beam/Linebeam.ttf');
+    src: url('Linebeam.ttf');
 }
 
 
 @font-face{
     font-family: 'vcr';
-    src: url('vcr-osd-mono/VCR_OSD_MONO.ttf');
+    src: url('VCR_OSD_MONO.ttf');
 }
 
 
