@@ -26,13 +26,13 @@ body{
 
 @font-face{
     font-family: 'linearBeam';
-    src: url('css/fonts/Linebeam.ttf');
+    src: url('linear_beam/Linebeam.ttf');
 }
 
 
 @font-face{
     font-family: 'vcr';
-    src: url('VCR_OSD_MONO.ttf');
+    src: url('vcr-osd-mono/VCR_OSD_MONO.ttf');
 }
 
 
